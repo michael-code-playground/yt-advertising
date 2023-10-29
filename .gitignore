@@ -1,0 +1,10 @@
+data-removal-test.py
+paraphraser.py
+record-search.py
+client_secret_347401512165-cdcmude4mbc17v9r5965vtl635gk4ofr.apps.googleusercontent.com.json
+/build
+/dist
+/__pycache__
+comment_generator.py
+REQUIREMENTS.TXT
+chatgpt-key.json
